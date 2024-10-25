@@ -103,6 +103,3 @@ The `WeatherAlert` component monitors the fetched forecast data, and based on th
 - **Advanced Forecasting**: Incorporating additional weather parameters like UV index or air quality.
 - **Localization**: Supporting multiple languages for a broader user base.
 
-## License
-
-This project is licensed under the MIT License.
